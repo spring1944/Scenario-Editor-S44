@@ -8,7 +8,7 @@ return {
   shortGame='SE S44',
   modtype=1,
   depend = {  			
-  	'Spring: 1944 $VERSION',
+  	'Spring: 1944 v2.0',
   	'Scenario Editor Core git',
   },
 }
