@@ -1,14 +1,14 @@
 return {
-  name='Scenario Editor S44',
-  description='Scenario Editor for Spring: 1944',
+  name='Scened S44',
+  description='Scened for Spring: 1944',
   shortname='SE S44',
   version='git',
   mutator='Official',
-  game='Scenario Editor S44',
+  game='Scened S44',
   shortGame='SE S44',
   modtype=1,
   depend = {  			
-  	'Spring: 1944 v2.0',
-  	'Scenario Editor Core git',
+  	'rapid://s44:stable',
+  	'Scened Core git',
   },
 }
